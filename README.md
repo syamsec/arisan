@@ -1,4 +1,6 @@
 # arisan
+![IMG_20230205_175144](https://user-images.githubusercontent.com/121809593/216814811-68ce19e6-f960-475c-908a-f5ec018ad78d.jpg)
+
 Sebuah program arisan sederhana dari JavaScript
 
 # usage
